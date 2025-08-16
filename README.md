@@ -3,7 +3,6 @@
 NexusPlan is a **Smart To-Do List App** designed to make task management simpler, faster, and more intuitive.  
 It combines **voice-powered task creation**, **Google Calendar integration**, **text-to-speech reminders**, and **smart notifications** to help users stay organized with minimal effort.  
 
----
 
 ## ✨ Features
 
@@ -24,4 +23,3 @@ It combines **voice-powered task creation**, **Google Calendar integration**, **
 - 🔐 **Google Sign-In**  
   Secure sign-in and authentication using your Google account.  
 
----
